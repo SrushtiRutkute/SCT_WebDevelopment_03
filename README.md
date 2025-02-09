@@ -1,4 +1,4 @@
-* Tic-Tac-Toe:
+* Tic-Tac-Toe Board Game:
 
   A simple Tic-Tac-Toe web game with a scoreboard and an advanced AI opponent.
 
