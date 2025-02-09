@@ -2,6 +2,7 @@
 
   A simple Tic-Tac-Toe web game with a scoreboard and an advanced AI opponent.
 
+
 * Features:
  
 
@@ -15,6 +16,7 @@
 
  5. Reset Button – Restart the game anytime.
 
+
 * How to Play:
  
  1. Player X starts and places "X" on the board.
@@ -25,9 +27,11 @@
 
  4. Click Reset Game to restart.
 
+
 * Running the Project:
 
     Simply open index.html in a browser to play.
+
 
 * Project Structure:
   
