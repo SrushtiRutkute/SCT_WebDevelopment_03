@@ -2,9 +2,6 @@
 
   A simple Tic-Tac-Toe web game with a scoreboard and an advanced AI opponent.
 
-  ![Uploading image.png…]()
-
-
 
 * Features:
  
